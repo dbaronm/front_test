@@ -1,0 +1,74 @@
+body {
+	background-color: #63A5C1;
+}
+
+.top {
+	position: fixed;
+	z-index: 999;
+	width: 100%;
+	height: 10%;
+	text-align: center;
+	background-color: #63A5C1;
+}
+
+.top a{
+	text-decoration: none;
+}
+
+.top h1 {
+	font-family: Verdana, Geneva, sans-serif;
+    font-weight: bold;
+    font-size: 36px;
+    color: #DCE1E5;
+    text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb, 0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
+}
+
+
+
+.body {
+	padding-top: 10%;
+	background-color: #ABE6E5;
+	width: 100%;
+	height: 90%;
+	text-align: center;
+}
+
+.body h1{
+	
+}
+
+.body img {
+	width: 300px;
+	height: 300px;
+	margin: 5%;
+}
+
+.list {
+	padding-top: 10%;
+	text-align: center;
+}
+
+.data {
+	margin-top: 5%;
+	width: 97%;
+
+}
+.data p {
+	font-size: 2em;
+}
+ul li {
+	list-style-type: none;
+}
+.aList {
+	height: 35%;
+	background-color: #ABE6E5;
+}
+.bList {
+	height: 35%;
+}
+.aList img {
+	float: left;
+}
+.bList img {
+	float: right;
+}
